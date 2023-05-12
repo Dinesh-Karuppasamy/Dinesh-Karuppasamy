@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dinesh K,I'm an early-career **Self Taught Data Science Enthusiast** with a curiosity and passion for creative problem solving. 
+- 👋 Hi, I’m @Dinesh K,I'm an early-career **Self Taught Data Analyst** with a curiosity and passion for creative problem solving. 
 - ☀️ I use Jupyter notebook for my projects and work.
 - 🤹 My skill set includes **Python | EDA - AutoEDA | MS Excel | Statistics | Machine Learning | SQL | Tableau**.
 - 👀 I’m interested in learning new skills and tools that would challenge me.
